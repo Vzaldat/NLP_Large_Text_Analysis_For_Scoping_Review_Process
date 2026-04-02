@@ -4,6 +4,7 @@
 
 This project provides an integrated, automated pipeline for conducting scoping reviews using the PRISMA-ScR methodology. The pipeline retrieves, screens, ranks, and summarizes research papers from multiple open-access databases, leveraging both traditional NLP models and state-of-the-art large language models (LLMs).
 
+<img width="1082" height="442" alt="image" src="https://github.com/user-attachments/assets/0b27a094-9ca4-4b76-b672-c0b9e6024e6a" />
 
 ## Features
  **Automated Literature Search:** Searches Europe PMC, DOAJ, and Semantic Scholar for open-access research papers based on user-supplied keywords or research questions.
